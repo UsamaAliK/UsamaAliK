@@ -16,9 +16,12 @@ AI-powered applications and scalable backend systems.
 ### 🛠️ Tech Stack
 
 **Languages**
-- Python
-- C++
-- SQL
+
+<img src="https://skillicons.dev/icons?i=python,cpp,sql" />
+
+
+
+
 
 **AI / ML**
 - RAG
@@ -27,12 +30,34 @@ AI-powered applications and scalable backend systems.
 - LLM APIs
 - Machine Learning
 
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+
+
+
 **Backend**
-- FastAPI
-- PostgreSQL
-- pgvector
+
+
+
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql" />
+
+
 
 **Tools**
-- Git
-- GitHub
-- Docker
+
+
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UsamaAliK&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaAliK&layout=compact" />
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=UsamaAliK)
