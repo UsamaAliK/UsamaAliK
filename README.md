@@ -55,9 +55,4 @@ AI-powered applications and scalable backend systems.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsamaAliK&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaAliK&layout=compact" />
-</p>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=UsamaAliK)
