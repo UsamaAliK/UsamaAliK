@@ -30,8 +30,7 @@ AI-powered applications and scalable backend systems.
 - LLM APIs
 - Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
 
 
