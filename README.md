@@ -94,7 +94,7 @@ A hybrid movie recommendation system combining collaborative filtering and conte
 
 ### 🤝 Let's Connect
 
-I'm open to **AI Engineering, Python, Backend, and Machine Learning opportunities** and technical collaborations.
+I'm open to **AI Engineering, Python and Machine Learning opportunities** and technical collaborations.
 
 <a href="mailto:usamaaliawan88@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="45" />
