@@ -96,10 +96,4 @@ A hybrid movie recommendation system combining collaborative filtering and conte
 
 I'm open to **AI Engineering, Python and Machine Learning opportunities** and technical collaborations.
 
-<a href="mailto:usamaaliawan88@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/usama-ali-ai-eng">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-</a>
+[Email](mailto:usamaaliawan88@gmail.com) · [LinkedIn](https://www.linkedin.com/in/usama-ali-ai-eng) · [Portfolio](https://myprotfolio-peach.vercel.app/)
