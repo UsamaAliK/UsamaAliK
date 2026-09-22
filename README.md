@@ -68,6 +68,9 @@ An AI teaching assistant that helps teachers prepare lessons, answer questions f
 
 **Tech:** Python · FastAPI · LangChain · ChromaDB · Gemini · RAG · Tool Calling
 
+[Source Code](https://github.com/UsamaAliK/TutorDeskit)
+
+
 ---
 
 #### 🔎 RepoGuide — Understand Any Codebase
